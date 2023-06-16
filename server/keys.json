@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "sales-389917",
-  "private_key_id": "54c9ba3ed705510280a4f9e9e516b8c09f4e9e76",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIN/QmU1JHFEYE\n8tcPJxlyfXGR68thtWCMsUkyVedWPV9IV1BLr58SpIOdiDuS/bqvFgRRlXQ7eDKJ\nvTxr8eqN9vpKTgu24SMEBwGMS4UQtu13jvAlDxW+32yL1DMEai/3qNfdlCGTJ2Q1\nNC9wDLEJFJXrvFDXOar87EFLoig/n0Pl2sSfNvWyYFMhY/6rAjsdMQHdBFTo2rqj\n6AByBC1LDSYAgIF8rmuyJfPr66shfA6LmJZUZLBFMcGIFOiSK4sMC1em6S5WQLNn\nDpzTMQ+F61XxvvmnzCTG2EvRdzaNa9ANwhux8aJRAY6umpmJ5KckVrn3YKfszwKc\n34VfGIKZAgMBAAECggEACnzVnSU1gTj7FYO4PJvYl53MU13Ey00BXF1Jb17iWfIZ\ne50JBCbNGsP/xHtclUoVJi+YKlFoCpHfd2I+qcVLJcur4m3bQQH/WOMaZTYIYI7f\nHfCSYCWveJVpsUXRmBYNMLva9mWtxzeDrZP+NlsCDotDucyIy/Y0BAgN3G2yDgaQ\nGwfSEbGolpK4G/4yv8fqBYewjTx6GCs2YyPxvr3VDu7vr285t70VGjoUu1S2mwZF\nnZUjpEb9eG+1KPL9jp5n90vXM3gE9VFYc0JLzbt+Z5O4xANaiWcgZEuvtZXtRQsA\n5XqhM8uSnKTjmpwRzvNpbfD+y2WtPAXaYQNWZip1wQKBgQD1KVbExufDMVYLb28e\ndWrI4auG+XN4ukdfW8CroY/7wxvgGXJ96eypRawEjlHvtrAnU6pd3r4FANcp8GR5\nOVplV0cujBW5XrrPraVhD60xpzrEhCdu103877XPjyMWUFDRi3zR5ozk4T757Fah\npbrNAsi5Ph4KPovjqNm3tyb9hwKBgQDREfcGS17eokS19cL9QtlmW9/W7O9ea7Gw\n6i8N0c+ms8qqHgWCdRViSv779EuiYVn5fcpVliJc03qW0Hxg6LIIHVknKuzyDMuG\nUGgcNYPBzOYaMp7xI1wmMXHdE1/6KtsuVP+4FK6i1t+YpBAiSdskI4+0XXNsGpwh\nfYoW7GuG3wKBgHucgFdvQuQ0OAJECW7+HP10a5v+oq44nkwCYz8mkwaJ9cAklInQ\nLLecnYMej0mif2cU1E3IRV8YcWSABOjqdh2qyAU8NKfmj6KvFze9Q8JJY2Q6jfdh\nL71cz/r7XOGfVWCSSDk9WcT9nVc+Rt/yRCGiSbq9C0B3EOmU9VGgU1R5AoGAaGPS\n9uadSQa2zjAXG0PMrypCmtsVLg0R3SchNYJEb5UoJUb2M0xoz/poVL+HIF4BgeyI\nIbHkGHtTo4gYAn9NnXWh9UeepcEzwi3VvfgOgK7hWcVazUZ9lWhs1Rj+fDf31quE\nP5K8G/y0ClAo6iX8cI/9Ce77Wcfzm1lGoOmNSvsCgYBVS6c+6XaMPt+UrpVW6jYC\nwSscIlfID7jH7yVXJrPVpUNXBrtdP4fwiLs6tB3B7JVjlZJdP/LpPleRVF6I+YFd\nmXa95HXSB0omlNXoMxXg7lOgDKL4gJH3B4w4DclXHoHm11HV9P5ZD+ly50w9Fn+w\nx6YSK6M1DuALE6YuYUitTQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "test-upload-video@sales-389917.iam.gserviceaccount.com",
-  "client_id": "114395276863327475885",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-upload-video%40sales-389917.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+//Enter creds here
